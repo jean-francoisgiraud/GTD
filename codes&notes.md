@@ -1,11 +1,12 @@
-CODES:
+CODES (acronyms definitions):
+
 o=ouvert, f=ferme
 o=open, c=closed
-ci:: continuous improvements
-1d:: once a day
-w:: once weekly
-3w:: 3xWeek
-co=computer ho=home
+ci= continuous improvements
+1d= once a day
+w= once weekly
+3w= 3xWeek
+co=computer, ho=home
 
 NOTES: 
 
