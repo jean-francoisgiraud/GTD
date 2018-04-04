@@ -1,19 +1,20 @@
 CODES (acronyms definitions):
 
-o=ouvert, f=ferme
-o=open, c=closed
-ci= continuous improvements
-1d= once a day
-w= once weekly
-3w= 3xWeek
-co=computer, ho=home
+o=ouvert, f=ferme,
+o=open, c=closed,
+ci= continuous improvements,
+1d= once a day,
+w= once weekly,
+3w= 3xWeek,
+co=computer, ho=home,
 
 NOTES: 
 
-* the time stamp can be the date the action was entered or the last time the action was taken.
+* The time stamp can be the date the action was entered or the last time the action was taken.
 - TODO: this is something that needs to be done, no further specification if this can be done now or not.
 - NEXT: this is something that can be done /now/, you have everything you need to start doing it.  This is what /next actions/ are about.
-- WAITING: This item cannot be done now, because we are waiting for something.  Somebody else needs to act, some material needs to arrive, etc.
+- WAITING: This item cannot be done now, because we are waiting for something.  
+- Somebody else needs to act, some material needs to arrive, etc.
 - SOMEDAY: means that you have not decided that this needs to be done.
 - Urgent: (a binary column — urgent or not urgent)
 - Where: (home, at work, computer, in car, etc.)
