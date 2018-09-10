@@ -15,4 +15,4 @@ ACRONYMS AND DEFINITIONS
 ST Status (O open, C Closed)  
 
 Current model: Machine learning mathematics> Probability> Frequentists> Basic notion of probability: # Results / # Attempts  
-Futur model: Machine learning mathematics> Probability> Bayesian> Basic notion of probability: The probability is not a number, but a distribution itself.  
+Future model: Machine learning mathematics> Probability> Bayesian> Basic notion of probability: The probability is not a number, but a distribution itself.  
