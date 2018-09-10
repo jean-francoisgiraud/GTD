@@ -10,3 +10,6 @@ yyyymmdd | ST | WHAT           | CONTEXT | NOTES
 ---------| ---| -------------- | --------| --------------------|
 180808   | O  |                |         |   
 180809   | C  |                |         |   
+
+ACRONYMS AND DEFINITIONS  
+ST Status (O open, C Closed)  
